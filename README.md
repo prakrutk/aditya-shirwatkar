@@ -8,7 +8,6 @@
 I'm a junior undergraduate student in Mechanical Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishes to make the world a better place through the advancements in robotics and AI :innocent:
 <br>
 **More About Me**:
-
 - 🔭 I’m currently working on [**Trajectory Optimization (focused on Bipedal Systems)**](https://github.com/IvLabs/biped_trajectory_optimization) and implementing few **Optimal Control algorithms** on Underactuated Systems as well as researching on **Reconfigurable Robot** locomotion.
 - 🌱 I’m looking forward to researching various ways to integrate **Optimal Controls** with new advancements in **Reinforcement Learning** and applying them on **Reconfigurable systems**.
 - 💬 I am happy to share my experiences in robotics and would like to hear about yours too.
