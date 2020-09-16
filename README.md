@@ -1,7 +1,7 @@
 <!--
 **aditya-shirwatkar/aditya-shirwatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="left" src="https://tenor.com/view/robot-wave-waving-gif-11231238"> 
+<img align="left" src="https://tenor.com/VhVa.gif"> 
 
 ### Hi there 👋
 
