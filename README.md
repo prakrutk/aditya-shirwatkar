@@ -15,6 +15,8 @@ I'm a junior undergraduate student in Mechanical Engineering at [Visvesvaraya Na
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
 
+</br>
+
 ### Connect with me:
 
 <a target="_blank" href="https://www.linkedin.com/in/prakrut-kotecha-044093189/">
@@ -23,7 +25,7 @@ I'm a junior undergraduate student in Mechanical Engineering at [Visvesvaraya Na
 <a target="_blank" href="https://api.whatsapp.com/send?phone=8879941228">
   <img align="left" alt="Whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="mailto:prakroot@gmail.com">
+<a target="_blank" href="mailto:prakroot@students.vnit.ac.in">
   <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://www.facebook.com/prakrut.kote/">
